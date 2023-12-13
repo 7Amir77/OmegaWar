@@ -1,6 +1,7 @@
-Thirdperson Shooter System Documentation
-Overview
-This repository encompasses the Unreal Engine C++ implementation for a Thirdperson Shooter System. The system is designed to provide a comprehensive framework for creating multiplayer third-person shooter games. It includes a variety of components and features to enhance the gameplay experience.
+##Thirdperson Shooter System Documentation
+# Overview
+This repository encompasses the Unreal Engine C++ implementation for a Thirdperson Shooter System. The system is designed to provide a comprehensive framework for creating multiplayer third-person shooter in Unreal.
+ It includes a variety of components and features to enhance the gameplay experience.
 
 Key Components and Features
 1. Ammo
